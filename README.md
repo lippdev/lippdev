@@ -1,6 +1,6 @@
 <div align="center">
 
-# Full Stack Developer · Product Builder · Automation & AI
+# Software Engineer · Automation & AI
 
 I design and build scalable digital products, from architecture to production.
 
@@ -13,7 +13,7 @@ I design and build scalable digital products, from architecture to production.
 
 ## About Me
 
-I'm a Brazilian Full Stack Developer, focused on building reliable, scalable and user-centered software.
+I'm a Brazilian Software Engineer, focused on building reliable, scalable and user-centered software.
 
 I work across the entire product lifecycle — from understanding business requirements and defining the architecture to development, deployment, infrastructure and continuous improvement.
 
