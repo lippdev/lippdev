@@ -1,5 +1,6 @@
 <div align="center">
-### Full Stack Developer · Product Builder · Automation & AI
+
+# Full Stack Developer · Product Builder · Automation & AI
 
 I design and build scalable digital products, from architecture to production.
 
@@ -83,31 +84,6 @@ Product Engineering
 </div>
 
 ---
-
-## Current Focus
-
-```typescript
-const currentFocus = {
-  building: [
-    "Scalable SaaS products",
-    "Desktop applications",
-    "Automation tools"
-  ],
-
-  exploring: [
-    "AI agents",
-    "Real-time orchestration",
-    "Developer productivity"
-  ],
-
-  principles: [
-    "Solve real problems",
-    "Keep systems maintainable",
-    "Measure impact",
-    "Continuously improve"
-  ]
-};
-```
 
 ---
 
