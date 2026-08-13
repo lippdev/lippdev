@@ -30,7 +30,7 @@ I work across the stack, including architecture, interfaces, APIs, authenticatio
 
 <div align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="175" alt="Filipe's 2026 GitHub commit activity" src="https://github-stats-extended.vercel.app/api?username=lippdev&amp;commits_year=2026&amp;role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&amp;hide=stars,prs,issues,contribs&amp;hide_rank=true&amp;custom_title=Commits%20in%202026&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ef4444&amp;text_color=8b949e&amp;icon_color=ef4444" />
+    <img height="175" alt="Filipe's 2026 GitHub contributions" src="https://github-stats-extended.vercel.app/api?username=lippdev&amp;commits_year=2026&amp;role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&amp;hide=stars,prs,issues,contribs&amp;hide_rank=true&amp;custom_title=Contributions%20in%202026&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ef4444&amp;text_color=8b949e&amp;icon_color=ef4444" />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img height="175" alt="Filipe's most-used public repository languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lippdev&amp;layout=compact&amp;langs_count=8&amp;role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ef4444&amp;text_color=8b949e" />
