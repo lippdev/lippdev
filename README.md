@@ -43,11 +43,3 @@ My experience includes web applications, desktop software, SaaS platforms, APIs,
 </div>
 
 ---
-
----
-
-<div align="center">
-
-### Building useful software with purpose, performance and attention to detail.
-
-</div>
