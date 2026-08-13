@@ -21,47 +21,6 @@ My experience includes web applications, desktop software, SaaS platforms, APIs,
 
 ---
 
-## How I Work
-
-* I approach development with a strong **product mindset**
-* I translate business and operational needs into practical solutions
-* I prioritize **performance, stability, usability and maintainability**
-* I work independently across front-end, back-end and infrastructure
-* I use AI to accelerate development without compromising technical quality
-* I continuously analyze, improve and evolve the products I build
-
----
-
-## Specializations
-
-```text
-Full Stack Development
-├── Web and desktop applications
-├── REST APIs and system integrations
-├── SaaS product development
-└── Relational and cloud databases
-
-Automation & AI
-├── Process automation
-├── AI-powered workflows
-├── Agent orchestration
-└── Internal productivity tools
-
-Infrastructure
-├── Docker and Docker Compose
-├── Linux, cloud and VPS environments
-├── Application deployment
-└── Monitoring and troubleshooting
-
-Product Engineering
-├── Requirements analysis
-├── Software architecture
-├── Performance optimization
-└── Continuous product evolution
-```
-
----
-
 ## Tech Stack
 
 <div align="center">
